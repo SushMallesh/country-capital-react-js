@@ -1,0 +1,24 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #93c5fd;
+  min-height: 100vh;
+}
+.country-capital-container {
+  background-color: #f8fafc;
+  width: 85%;
+  border-radius: 15px;
+  padding-left: 20px;
+}
+.question {
+  margin-left: 10px;
+}
+.options {
+  height: 30px;
+}
+.country {
+  color: #000000;
+  font-size: 25px;
+  font-weight: 500;
+}
